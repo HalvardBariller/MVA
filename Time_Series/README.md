@@ -1,6 +1,6 @@
 # Machine Learning for Time Series
 
-This folder contains the different assignments required as part of the *Machine Learning for Time Series* course given by the Pr. Laurent OUDRE.
+This folder contains the different assignments required as part of the *Machine Learning for Time Series* course given by the Pr. Laurent OUDRE. <br>
 All labs were done with Farah ELLOUZE.
 
 ## [Lab 1: Pattern Recognition & Detection, Feature Extraction & Selection](https://github.com/HalvardBariller/MVA/tree/main/Time_Series/HW1)
