@@ -7,6 +7,6 @@ All labs were done with Farah ELLOUZE.
 
 Convolutional Dictionary Learning, Spectral Features, Pattern Classification using Dynamic Time Warping.
 
-## [Lab 2: Random Processes & Representation Learning]()
+## [Lab 2: Random Processes & Representation Learning](https://github.com/HalvardBariller/MVA/tree/main/Time_Series/HW2)
 
 AR and MA processes, Signal Denoising with Sparse Coding (Orthogonal Matching Pursuit algorithm for reconstruction).
