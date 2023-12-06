@@ -6,3 +6,6 @@ This folder contains the different assignments required as part of the *Machine 
 
 Convolutional Dictionary Learning, Spectral Features, Pattern Classification using Dynamic Time Warping.
 
+## [Lab 2: Random Processes & Representation Learning]()
+
+AR and MA processes, Signal Denoising with Sparse Coding (Orthogonal Matching Pursuit algorithm for reconstruction).
