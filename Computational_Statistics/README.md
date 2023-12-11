@@ -10,3 +10,7 @@ Box-Muller and Marsaglia-Bray algorithms for independant Gaussian sampling, Inva
 ## [Lab 2: Expectation-Maximization algorithm and Importance Sampling](https://github.com/HalvardBariller/MVA/tree/main/Computational_Statistics/2_EM_ImportanceSampling)
 
 Sampling of discrete distributions, Expectation-Maximization algorithm for a Gaussian mixture model, Importance Sampling (Adaptative Importance Sampling, Population Monte-Carlo algorithm).
+
+## [Lab 3: Hastings-Metropolis and Gibbs Samplers](https://github.com/HalvardBariller/MVA/tree/main/Computational_Statistics/3_HastingMetropolis_Gibbs)
+
+Hasting-Metropolis within Gibbs, Stochastic Approximation EM, Multiplicative Hastings-Metropolis.
