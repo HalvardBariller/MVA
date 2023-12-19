@@ -27,7 +27,7 @@ Node embeddings (DeepWalk), Graph Neural Networks for node classification.
 
 Graph Neural Networks for Graph-Level Tasks (Graph Classification, GNNs Expressive Power).
 
-## [Lab 7: Learning on Sets and Graph Generative Models](https://github.com/HalvardBariller/MVA/tree/main/Advanced_Learning_for_Text_and_Graphs/7_Sets_and_Graph_Generative_Models)
+## [Lab 7: Learning on Sets and Graph Generative Models](https://github.com/HalvardBariller/MVA/tree/main/Advanced_Learning_for_Text_and_Graphs/7_Sets_and_Graphs_Generative_Models)
 
 DeepSets, Graph Generation with Variational Graph Autoencoders.
 
