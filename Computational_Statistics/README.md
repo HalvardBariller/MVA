@@ -14,3 +14,7 @@ Sampling of discrete distributions, Expectation-Maximization algorithm for a Gau
 ## [Lab 3: Hastings-Metropolis and Gibbs Samplers](https://github.com/HalvardBariller/MVA/tree/main/Computational_Statistics/3_HastingMetropolis_Gibbs)
 
 Hasting-Metropolis within Gibbs, Stochastic Approximation EM, Multiplicative Hastings-Metropolis.
+
+## [Lab 4: Adaptative and Interacting MCMC](https://github.com/HalvardBariller/MVA/tree/main/Computational_Statistics/4_Adaptative_Interacting_MCMC)
+
+Adaptative Metropolis-Hastings within Gibbs, Parallel Tempering for Multimodal Distributions, Bayesian Analysis of a One-Way Random Effects Model.
